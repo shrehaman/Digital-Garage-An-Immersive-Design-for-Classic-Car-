@@ -1,3 +1,5 @@
+<img src="garage_blnd.png" width=80% height=50%>
+
 
 # Digital Garage An Immersive Design for Classic Car (3D Modeling)
 
